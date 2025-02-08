@@ -1,0 +1,23 @@
+-- Banco
+
+-- CREATE DATABASE blog_db;
+
+-- USE blog_db;
+
+-- CREATE TABLE noticias (
+--   id INT AUTO_INCREMENT PRIMARY KEY,  
+--   nome VARCHAR(255) NOT NULL,         
+--   descricao TEXT NOT NULL,            
+--   imagem VARCHAR(255),                
+--   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+-- );
+
+-- iniciando com node
+
+-- npm init -y   node
+
+-- npm install express {
+-- mysql2 
+-- cors 
+-- dotenv
+-- }
